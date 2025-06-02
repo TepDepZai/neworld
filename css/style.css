@@ -1,0 +1,22 @@
+.cssdau {
+  /* màu chữ */
+  color: blue;
+  /* kiểu chữ */
+  font-style: italic;
+  /* phông chữ */
+  font-family: Arial, Helvetica, sans-serif;
+  /* chuyển đổi viết hoa */
+  text-transform: capitalize;
+  /* căn giữa */
+  text-align: center;
+  font-size: 18px;
+  /* độ trong suốt */
+  opacity: 30%;
+}
+
+h2 {
+  color: red;
+}
+h3 {
+  color: green;
+}
