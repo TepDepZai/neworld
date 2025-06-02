@@ -45,3 +45,12 @@ input:checked ~ img {
   /* 3 mờ đi vẩn tương tác được */
   /* opacity: 0; */
 }
+.demo {
+  color: red;
+}
+.demo2 {
+  color: blue;
+}
+.demo.demo2 {
+  color: green;
+}
