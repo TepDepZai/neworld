@@ -54,3 +54,35 @@ input:checked ~ img {
 .demo.demo2 {
   color: green;
 }
+div p {
+  color: purple;
+}
+.loichung p {
+  color: orange;
+  font-size: 30px;
+}
+div > p {
+  color: pink;
+}
+/* đứng sát ngay sau dùng + */
+h1 + h2 {
+  color: brown;
+}
+.demo + h3 {
+  color: gray;
+}
+.demo.demo2 + h3 {
+  color: black;
+}
+h1 ~ h3 {
+  color: yellow;
+}
+div ~ div {
+  color: cyan;
+}
+p[href] {
+  color: blue;
+}
+[target="_blank"] {
+  color: red;
+}
