@@ -20,3 +20,17 @@ h2 {
 h3 {
   color: green;
 }
+.css2 {
+  background-image: url(/css/img/5rd.jpg);
+  opacity: 20%;
+}
+.css3 {
+  /* ẩn đi hoàn toàn */
+  background-image: url(/css/img/5rd.jpg);
+  display: none;
+}
+.css4 {
+  /* hiển thị dưới dạng khối */
+  background-image: url(/css/img/5rd.jpg);
+  display: block;
+}
