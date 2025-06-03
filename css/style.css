@@ -86,3 +86,21 @@ p[href] {
 [target="_blank"] {
   color: red;
 }
+[title*="hello"] {
+  color: green;
+}
+[title|="hello"] {
+  color: greenyellow;
+}
+.bre:hover {
+  color: blue;
+}
+.bree:active {
+  color: red;
+}
+.breee:link {
+  color: chocolate;
+}
+.breee:visited {
+  color: darkblue;
+}
