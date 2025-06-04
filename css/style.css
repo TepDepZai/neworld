@@ -104,3 +104,100 @@ p[href] {
 .breee:visited {
   color: darkblue;
 }
+.block:empty {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  border-radius: 30px;
+}
+.block {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+}
+h2:target {
+  color: orange;
+}
+p:first-child {
+  color: purple;
+  font-size: 30px;
+}
+.blocket {
+  width: 100px;
+  height: 100px;
+  background-color: green;
+  padding: 10px;
+  margin: 15px;
+}
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: yellow;
+}
+.box1 {
+  margin-left: 0px;
+  border: 5px solid red;
+}
+.box2 {
+  margin-left: 109px;
+  border: 5px solid blue;
+}
+.box3 {
+  margin-left: 218px;
+}
+.container h1 {
+  font-size: 30px;
+  color: purple;
+}
+.container p {
+  font-size: 20px;
+  color: green;
+  line-height: 1.45;
+}
+.container {
+  margin: 0 auto;
+  width: 700px;
+  background-color: aqua;
+  text-align: center;
+}
+.container image {
+  min-width: 600px;
+}
+.avatar {
+  width: 150px;
+  height: 180px;
+  border-radius: 50%;
+  border: 2px solid black;
+  margin-left: -70px;
+}
+.avatar:first-child {
+  margin-left: 0%;
+}
+.containerbro {
+  background-color: yellow;
+  padding: 40px;
+}
+.boxx {
+  width: 100px;
+  height: 100px;
+  border: solid 10px black;
+}
+.box11 {
+  margin-bottom: 50px;
+}
+.box12 {
+  margin-top: 70px;
+}
+.item {
+  background-color: plum;
+  border: solid 2px black;
+}
+.item1 {
+  margin-right: 10px;
+}
+.item2 {
+  margin-left: 10px;
+}
+.item3 {
+  margin-top: 10px;
+}
